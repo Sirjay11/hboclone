@@ -9,7 +9,7 @@ const CastInfo = (props) => {
       <div className="cast-info__list">
         <ul className="cast-info__crew">
           <li>
-            James Alexander
+            James
           </li>
           <li>
             George Lucas
@@ -17,7 +17,7 @@ const CastInfo = (props) => {
         </ul>
         <ul className="cast-info__crew">
           <li>
-            Billy Jones
+            Billy
           </li>
           <li>
             George Lucas
@@ -36,12 +36,12 @@ const CastInfo = (props) => {
             Raul
           </li>
           <li>
-            George Wright
+            George Lucas
           </li>
         </ul>
         <ul className="cast-info__crew">
           <li>
-            Samantha Fox
+            Samantha
           </li>
           <li>
             George Lucas
@@ -54,10 +54,10 @@ const CastInfo = (props) => {
       <div className="cast-info__list">
         <ul className="cast-info__crew">
           <li>
-            James Alexander
+            James
           </li>
           <li>
-            George Henry
+            George Lucas
           </li>
         </ul>
         

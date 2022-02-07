@@ -1,5 +1,4 @@
-import Head from 'next/head';
-
+import Head from "next/head";
 
 export default function CreateUser() {
   return (
@@ -13,7 +12,7 @@ export default function CreateUser() {
         <div className="create-user__form">
           <img
             className="create-user__user-img"
-            src="https://images.generated.photos/vQA1uTrbOYronPrLTRCwF1pVjXF0ju-bhDvFJYAnMcU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjI3NjQ3LmpwZw.jpg"
+            src="https://uifaces.co/our-content/donated/vIqzOHXj.jpg"
           />
           <div className="create-user__input-group">
             <label>Name</label>
